@@ -12,4 +12,4 @@ Data was extracted using my own personal Strava Data. The python script that req
 
 In addition, my full, up-to-date Strava Activity Dashboard can be found here: https://public.tableau.com/app/profile/jairusmartinez/viz/PersonalStravaActivityData/Dashboard1
 
-This dashboard is automatically update.
+This dashboard is automatically updated.
