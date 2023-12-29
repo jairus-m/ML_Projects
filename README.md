@@ -1,4 +1,6 @@
-# Problem Statement
+# Using My Cycling Data to Predict Power Output  
+
+### Problem Statement
 
 Many endurance atheletes know what it feels like to hit the wall or to "bonk". Often times, "bonking" occurs when you burn more energy then you consume- leaving you at caloric deficit during a training ride, race, or any endurance activity. Bonking is something many people hate but experience way too often...
 
