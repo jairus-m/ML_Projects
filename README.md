@@ -1,5 +1,7 @@
 # Using My Cycling Data to Predict Power Output!  
 
+[Kaggle Link](https://www.kaggle.com/code/jairusmartinez/cycling-energy-regression?scriptVersionId=166565537)
+
 ### Problem Statement
 
 Many endurance atheletes know what it feels like to hit the wall or to "bonk". Often times, "bonking" occurs when you burn more energy then you consume- leaving you at caloric deficit during a training ride, race, or any endurance activity. Bonking is something many people hate but experience way too often...
@@ -13,3 +15,5 @@ Data was extracted using my own personal Strava Data. The fully automated ELT pi
 In addition, my full, up-to-date Strava Activity Dashboard can be found here: https://public.tableau.com/app/profile/jairusmartinez/viz/PersonalStravaActivityData/Dashboard1
 
 This dashboard is automatically updated.
+
+Next steps are to productionalize this model, deploy it, and create a batch streaming pipeline where I can feed in live data from my ELT pipeline to get predictions in real time!
